@@ -1,3 +1,5 @@
+# AI_chatbot_py
+
 1. Create a repository
     mkdir AI_chatbot
 
@@ -10,6 +12,7 @@
 4. Install the dependencies in the dependencies.txt
     pip install -r dependencies.txt
 
-5. 
+5. Create a database using postgreSQL
+    createdb mydb
 
-# AI_chatbot_py
+6. 
