@@ -5,10 +5,10 @@ from decouple import config
 
 url = URL.create(
     drivername="postgresql",
-    username=config("essy"),
-    password=config(""),
+    username=config("DB_USER"),
+    password=config("DB_PASSWORD"),
     host="localhost",
-    database="mydb"
+    database="mydb",
     port=5432
 )
 
