@@ -15,4 +15,4 @@
 5. Create a database using postgreSQL
     createdb mydb
 
-6. 
+6. Create psql file for connecting to to the database
